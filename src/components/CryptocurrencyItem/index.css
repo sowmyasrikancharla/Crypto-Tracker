@@ -1,0 +1,28 @@
+/* Write your CSS code here */
+.row {
+  background-color: #000000;
+  padding: 10px;
+  display: flex;
+  width: 100%;
+  justify-content: space-around;
+}
+.logo-type {
+  display: flex;
+  margin-left: 10px;
+  width: 80%;
+}
+.logo {
+  height: 30px;
+  width: 30px;
+}
+.text {
+  color: #ffffff;
+}
+.text-USD {
+  color: #ffffff;
+  width: 35%;
+}
+.text-euro {
+  color: #ffffff;
+  width: 35%;
+}
